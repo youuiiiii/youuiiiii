@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Richie
 
-<!--
-**youuiiiii/youuiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across **data engineering and software development**, with an interest in reliable data workflows, backend services, and practical automation.
 
-Here are some ideas to get you started:
+My public projects span Python applications, web development, and experiments with AI tooling. This profile brings together a few examples of that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | What you'll find | Technologies |
+| --- | --- | --- |
+| [Anime AI vs Human Detector](https://github.com/youuiiiii/Thesis-Project-Deploy-) | A Streamlit application for comparing CNN and CNN + DCT predictions on anime images. | Python, PyTorch, Streamlit |
+| [Library API](https://github.com/youuiiiii/library) | A Laravel project with authentication and role-based routes for managing books. | PHP, Laravel, Sanctum |
+| [Tamagotchi Web Game](https://github.com/youuiiiii/Tamagochi-WebGame-PTI) | A browser game project with a simulated clock, changing backgrounds, and level progression. | JavaScript, HTML, CSS |
+
+## Exploring
+
+- Data engineering: collection, transformation, and reliable data workflows.
+- Software development: APIs, backend systems, and usable applications.
+- AI tooling: agent workflows and automation. My [Stellarium repository](https://github.com/youuiiiii/stellarium) is a fork of [NousResearch/Hermes Agent](https://github.com/NousResearch/hermes-agent).
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/richie-tungadi/)
