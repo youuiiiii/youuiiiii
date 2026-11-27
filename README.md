@@ -21,5 +21,3 @@ Focused on Python ELT pipelines, RAG/knowledge-graph workflows, PyTorch, and bac
 ### Mobile & Web
 - **[mcp-project (SIGAP)](https://github.com/youuiiiii/mcp-project)** — Cross-platform Expo & React Native app for community incident reporting and BMKG disaster monitoring (TypeScript, Firebase).
 - **[thriftrove](https://github.com/youuiiiii/thriftrove)** — E-commerce web application built with React and Tailwind CSS.
-
-> *Note: Production internship work (Nabawi Tech ELT/RAG pipelines and LPPM UMN Next.js/Prisma MSME platform) is hosted in private repositories.*
